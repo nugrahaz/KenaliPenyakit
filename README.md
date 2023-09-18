@@ -1,8 +1,6 @@
-# Daftar-Biodata-Siswa
-==
-Daftar biodata siswa Dicoding Academy
---
-*biodata siswa terdiri dari 3 angkatan*
-- Angkatan 2019
-- Angkatan 2020
-- Angkatan 2020
+# kenalipenyakit
+>Program ini untuk menyelesaikan submission dicoding pada kelas "Belajar Membuat Aplikasi Flutter untuk Pemula" oleh Agung Nugraha (nugrahaz)
+
+## Demo
+
+
